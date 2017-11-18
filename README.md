@@ -1,11 +1,16 @@
 # Windows 10 (eval) with Qlik Sense Desktop
+
 ## Description
 Windows 10 (eval) with Qlik Sense Desktop
 
 
 ## Software installed
-- Windows 10 (eval)
-- Qlik Sense Desktop
+- Windows 10 (eval and not licensed)
+- Qlik Sense Desktop September 2017 Patch 1
+
+## Access 
+Open Virtualbox and double click on qmi-qs-desktop image.
+You'll be logged as 'vagrant' user.
 
 ## Users
 | Name | Password |

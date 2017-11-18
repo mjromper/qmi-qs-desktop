@@ -27,9 +27,9 @@ Vagrant.configure("2") do |config|
     end
     config.vm.hostname = vals["name"]
     config.vm.synced_folder "./files", "c:/installation/"
-    if File.directory?(File.expand_path(vals["sharedFolder"]))
-        config.vm.synced_folder vals["sharedFolder"], "c:/sensedata/"
-    end
+    ##if File.directory?(File.expand_path(vals["sharedFolder"]))
+    ##    config.vm.synced_folder vals["sharedFolder"], "c:/sensedata/"
+    ##end
     config.vm.synced_folder "../../shared-content", "c:/shared-content/"
     # config.vm.provision :shell, path: "../shared-content/scripts/modules/q-background.ps1", :powershell_elevated_interactive => true
     config.vm.provision :shell, path: "./scripts/provisioner.ps1", :powershell_elevated_interactive => true
