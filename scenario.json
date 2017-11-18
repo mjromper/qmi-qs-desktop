@@ -1,10 +1,10 @@
 {
     "name": "qmi-qs-desktop",
-    "description": "Windows 10 with QS Desktop",
+    "description": "Windows 10 with Qlik Sense Desktop",
     "category": "Common",
     "plugin-dependencies": [],
-    "notes": "Windows 10 with QS Desktop Installation",
-    "version": 1.0,
+    "notes": "Windows 10 (eval and not licensed) with Qlik Sense Desktop September 2017 Patch 1",
+    "version": 1.1,
     "author": "Manuel Romero",
     "email": "manuel.romero@qlik.com",
     "disabled": false,
