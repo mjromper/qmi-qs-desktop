@@ -15,4 +15,4 @@ while (!(Test-Path "C:\Users\vagrant\AppData\Local\Programs\Qlik\Sense\QlikSense
     Start-Sleep -s 60
 }
 
-Write-Host "Qlik Sense Desktop is being installed"
+Write-Host "Qlik Sense Desktop install finished."

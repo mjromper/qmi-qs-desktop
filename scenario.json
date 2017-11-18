@@ -3,7 +3,7 @@
     "description": "Windows 10 with Qlik Sense Desktop",
     "category": "Common",
     "plugin-dependencies": [],
-    "notes": "Windows 10 (eval and not licensed) with Qlik Sense Desktop September 2017 Patch 1",
+    "notes": "Windows 10 (eval and not licensed) with Qlik Sense Desktop September 2017 Patch 1.<br>It needs ~20Gb of free disk space to download the W10_64_bits box (only the first time though).",
     "version": 1.1,
     "author": "Manuel Romero",
     "email": "manuel.romero@qlik.com",
