@@ -20,4 +20,4 @@ You'll be logged as 'vagrant' user.
 ### Support Information
 | Author | Version | Date Published |
 |--------|---------|----------------|
-|Manuel Romero|1.0|14 Nov 2017|
+|Manuel Romero|1.1|14 Nov 2017|
